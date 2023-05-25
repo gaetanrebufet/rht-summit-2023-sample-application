@@ -4,7 +4,8 @@ data:
     [
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
+      "https://i.imgflip.com/7jmwjs.jpg",
+      "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*la1Pi1eN-k5TcaiR.jpeg"
     ]
 kind: ConfigMap
 metadata:
